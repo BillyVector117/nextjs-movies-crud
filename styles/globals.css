@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+.singleCard:hover {
+  background-color: #dadee2 !important;
+  color: #000000 !important;
+}
